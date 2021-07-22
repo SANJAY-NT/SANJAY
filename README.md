@@ -37,8 +37,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sanjay-nt&show_icons=true&theme=gotham&count_private=true" alt="sanjay-nt" />
 </p>
-### 💥 Programming Languages and Technologies Known:
 
+### <h2 align="center">💥 Programming Languages and Technologies Known:<h2/>
 <p>  
   
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />

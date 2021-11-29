@@ -13,7 +13,6 @@
    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-nt&count_private=true&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>-->
     <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  src="http://github-readme-streak-stats.herokuapp.com?user=sanjay-nt&count_private=true&theme=soft-green&hide_border=true"/>-->
   </a>
-     
   
   <a href="https://github.com/sanjay-nt/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjay-nt&count_private=true&theme=soft-green&hide_border=true"/>

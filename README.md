@@ -41,7 +41,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sanjay-nt&show_icons=true&theme=gotham&count_private=true" alt="sanjay-nt" />
 </p>
 <p align="center">
-<img width="80%" height="80%" src="https://activity-graph.herokuapp.com/graph?username=sanjay-nt&theme=react-dark&count_private=true" alt="sanjay-nt" />
+<img width="80%" height="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjay-nt&theme=github-compact" alt="sanjay-nt" />
 </p>
  <h2 align="center">💥 Programming Languages and Technologies Known:<h2/>
 <p>  
